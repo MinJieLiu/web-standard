@@ -8,6 +8,7 @@
  * [es6规范](/javascript/es6)
  * [react规范](/javascript/react)
  * [eslint参考](/javascript/eslint)
+ * [editorconfig](.editorconfig)
 
 ## 概述
 
