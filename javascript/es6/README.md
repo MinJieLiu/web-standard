@@ -1406,6 +1406,16 @@
     return obj;
     ```
 
+  - [18.7](#18.7) <a name='18.7'></a> 单行对象在 `{}` 内部前后各加一个空格
+
+    ```javascript
+    // bad
+    const {firstName, lastName} = obj;
+
+    // good
+    const { firstName, lastName } = obj;
+    ```
+
 
 **[⬆ 返回目录](#table-of-contents)**
 
@@ -1446,7 +1456,7 @@
     };
     ```
 
-  - [19.2](#19.2) <a name='19.2'></a> 增加结尾的逗号: **需要**。
+  - [19.2](#19.2) <a name='19.2'></a> 多行对象增加结尾的逗号: **需要**。（单行定义的对象，最后一个成员不以逗号结尾）
 
   > 为什么? 这会让 git diffs 更干净。另外，像 babel 这样的转译器会移除结尾多余的逗号，也就是说你不必担心老旧浏览器的[尾逗号问题](es5/README.md#commas)。
 
