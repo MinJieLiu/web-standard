@@ -2,28 +2,28 @@
 
 ## 目录结构
 
-  │  README.md
-  │
-  ├─css
-  │      .scss-lint.yml
-  │      README.md
-  │
-  ├─html
-  │      README.md
-  │
-  └─javascript
-      ├─es5
-      │      README.md
-      │
-      ├─es6
-      │      README.md
-      │
-      ├─eslint
-      │      eslintrc.json
-      │      README.md
-      │
-      └─react
-              README.md
+    │  README.md
+    │
+    ├─css
+    │      .scss-lint.yml
+    │      README.md
+    │
+    ├─html
+    │      README.md
+    │
+    └─javascript
+        ├─es5
+        │      README.md
+        │
+        ├─es6
+        │      README.md
+        │
+        ├─eslint
+        │      eslintrc.json
+        │      README.md
+        │
+        └─react
+                README.md
 
 ## 概述
 
