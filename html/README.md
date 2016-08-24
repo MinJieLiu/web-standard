@@ -411,4 +411,5 @@
 ### 图标
 
  * 如兼容 IE 低版本使用 字体图标 而非 css Sprite。
- * 更建议使用 svg Symbol 方式作为图标，相比字体图标，拥有更高的的扩展性和维护性，而且还可以控制局部颜色。
+ * 更建议使用 SVG Symbols 方式作为图标，相比字体图标，拥有更高的的扩展性和维护性，而且还可以控制局部颜色。
+    - 参考 [https://io-meter.com/2014/07/20/replace-icon-fonts-with-svg/](https://io-meter.com/2014/07/20/replace-icon-fonts-with-svg/)
