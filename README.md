@@ -21,4 +21,4 @@
 
 ## 结语
 
-感谢 `Airbnb` 、 `sivan` 、 `yuche` 、 `JasonBoy` 、 `doyoe`。
+感谢 `Airbnb` 、 `sivan` 、 `yuche` 、 `JasonBoy` 、 `doyoe` 、 `Jocs`。
