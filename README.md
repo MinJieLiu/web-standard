@@ -1,29 +1,13 @@
 # 前端规范指南
 
-## 目录结构
+## 导航
 
-    │  README.md
-    │
-    ├─css
-    │      .scss-lint.yml
-    │      README.md
-    │
-    ├─html
-    │      README.md
-    │
-    └─javascript
-        ├─es5
-        │      README.md
-        │
-        ├─es6
-        │      README.md
-        │
-        ├─eslint
-        │      eslintrc.json
-        │      README.md
-        │
-        └─react
-                README.md
+ * [html规范](/html)
+ * [css规范](/css)
+ * [es5规范](/javascript/es5)
+ * [es6规范](/javascript/es6)
+ * [react规范](/javascript/react)
+ * [eslint参考](/javascript/eslint)
 
 ## 概述
 
